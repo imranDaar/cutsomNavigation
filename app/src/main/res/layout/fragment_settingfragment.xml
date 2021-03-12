@@ -12,6 +12,6 @@
         android:text="This is Setting Panel"
         android:gravity="center"
         android:textSize="30dp"
-        android:textColor="@color/colorAccent"
-        />
+        android:textColor="@color/colorAccent" />
+
 </FrameLayout>

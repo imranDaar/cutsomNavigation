@@ -19,14 +19,13 @@
             android:id="@+id/toolbar"
             app:title="Aptech Education"
             app:titleTextColor="@color/cardview_light_background"
-            android:background="@color/colorAccent"
-            />
+            android:background="@color/colorAccent" />
 
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/container"
-            />
+            android:id="@+id/container" />
+
     </RelativeLayout>
 
     <com.google.android.material.navigation.NavigationView
